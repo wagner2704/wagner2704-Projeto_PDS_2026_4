@@ -22,5 +22,4 @@ Este projeto tem como objetivo estudar filtros digitais FIR e IIR, analisando:
 ├── teoria/
 ├── simulacoes/
 ├── resultados/
-├── requirements.txt
 └── README.md
